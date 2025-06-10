@@ -49,5 +49,3 @@ function addTodo() {
 
   renderTodoList();
 };
-
-console.log('changeseseses333s3ss');
